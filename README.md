@@ -4,7 +4,7 @@ TI Calculator Programs
 
 ## Math Toolz 
 
-This is a little file I put together to help everyone with their math homework!
+This is a little file I put together to help everyone with their math homework! Includes documentation!
 
 ## Cleanup
 
